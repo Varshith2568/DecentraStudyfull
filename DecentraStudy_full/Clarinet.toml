@@ -1,0 +1,8 @@
+[project]
+name = "decentra-study"
+authors = ["Ashraf"]
+description = "Decentralized Study Notes with voting (Clarity + Clarinet)"
+
+[[contracts]]
+name = "decentra-study"
+path = "contracts/decentra-study.clar"
